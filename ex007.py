@@ -1,5 +1,3 @@
-from tkinter import N
-
 
 print ("\nMédia Aritmética\n")
 
@@ -12,3 +10,7 @@ Sua primeira nota doi {}, e a sua segunda nota é {}.
 A médoa da notas é {}.'''.format(n,n1,m))
 
 print("\nFim do programa!\n")
+
+
+
+
